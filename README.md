@@ -1,5 +1,5 @@
 # parking-security-system-IOT
-vehicle parking security system with the application of fingerprints and openalpr cloud API. code from open source and combine with my code 
+simple vehicle parking security system with the application of fingerprints and openalpr cloud API. code from open source and combine with my code 
 
 Technology 
 1. Python 
